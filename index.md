@@ -25,18 +25,17 @@ This isn’t just a portfolio — it’s a work in progress, just like me.
 
 ## About Me
 
-- 🎓 **Bachelor’s in Networking and Information Technology Security**  
-  Ontario Tech University
-- 🔐 **CompTIA Security+ Certified**
-- ☁️ **AWS Cloud Practitioner Certified**
+- **Bachelor’s in Networking and Information Technology Security**  
+- **CompTIA Security+ Certified**
+- **AWS Cloud Practitioner Certified**
 
 ---
 
 ## Contact Me
 
-📧 zahra.ahmed.infosec@gmail.com  
-🔗 [LinkedIn](#) *(www.linkedin.com/in/zahraahmedd)*  
-💻 [GitHub](https://github.com/Zahra-Infosec/Zahra-Infosec.github.io)
+ zahra.ahmed.infosec@gmail.com  
+ [LinkedIn](#) *(www.linkedin.com/in/zahraahmedd)*  
+ [GitHub](https://github.com/Zahra-Infosec/Zahra-Infosec.github.io)
 
 
 
