@@ -4,6 +4,8 @@ Welcome to my collection of technical reflections — a space where I share ques
 
 These posts aren’t just summaries of what I’ve learned — they’re notes on what I’m *curious* about. They reflect how I think through problems and look for better solutions.
 
+I’ve also started writing technical reflections to explore the questions that don’t always have clear answers.
+
 ---
 
 ## 📌 Recent Reflections
