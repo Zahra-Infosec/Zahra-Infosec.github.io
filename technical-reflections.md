@@ -1,3 +1,6 @@
+[Home](index.md) | [Projects](projects.md) | [Technical Reflections](technical-reflections.md)
+
+
 # Technical Reflections
 
 Welcome to my collection of technical reflections — a space where I share questions, thoughts, and ideas that come up as I explore cybersecurity, systems thinking, and how technology could evolve.
