@@ -1,3 +1,6 @@
+[Home](index.md) | [Projects](projects.md) | [Technical Reflections](technical-reflections.md)
+
+
 # Are MAC Addresses Really Necessary for Efficient Networking?
 
 For years, MAC addresses and ARP (Address Resolution Protocol) have been fundamental to how devices identify and communicate within local networks. But as I’ve studied networking more deeply, I started to wonder:
