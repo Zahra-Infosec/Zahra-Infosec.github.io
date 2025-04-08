@@ -9,8 +9,11 @@ This page showcases the practical cybersecurity work I've done — from labs to 
 
 ## Threat Hunting Lab - Web Server Intrusion Investigation
 **Category**: Network Forensics; PCAP analysis, Execution, Persistence, Command & Control, Exfiltration
+
 **Tools Used**: Wireshark
+
 **Summary**: A suspicious file was flagged on a company web server. The network team captured and provided a PCAP file for investigation.My task was to analyze this traffic to uncover how the file appeared, who uploaded it, and wheather the attacker successfully accessed or exfilterated sensitive data. 
+
 **Write-up**: [View full walkthrough](wirestrike-lab.md)
 
 ---
